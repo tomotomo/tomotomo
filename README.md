@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a Freelance Developer, Project Manager, Product Manager.
+
 <!--
 **tomotomo/tomotomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
