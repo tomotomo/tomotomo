@@ -4,16 +4,17 @@ I am a Freelance Developer, Project Manager, Product Manager.
 
 ---
 
-DevFesにご参加のみなさんこんにちは！
+みなさんこんにちは！
 
 お仕事の相談やSNSのフォロー歓迎です！詳細は以下のリンクから👇️
 
-- 💼 お仕事の相談 <https://waall.page/>
+- 🔗 SNSアカウント [X](https://x.com/tomotomobile) / [Instagram](https://www.instagram.com/tomotomobile/) / [Qiita](https://qiita.com/tomotomo) / [Zenn](https://zenn.dev/tomotomobile)
 - 📝 個人ブログ <https://develtips.com/>
   - 人気👑1️⃣ [リポジトリとレポジトリの違い（発音）](https://develtips.com/etc/133)
   - 役に立つ [経営者が知っておくべき「シーケンス図」の基本](https://develtips.com/communication/632)
 - 📘 書いた技術書 [エンジニアのためのWordPress開発入門](https://link.amazon/B05904z3A)
-- 🔗 SNSアカウント [X](https://x.com/tomotomobile) / [Instagram](https://www.instagram.com/tomotomobile/) / [Qiita](https://qiita.com/tomotomo) / [Zenn](https://zenn.dev/tomotomobile)
+- 💼 お仕事の相談 <https://waall.page/>
+
 
 
 ## 👾👾👾 GAMES 👾👾👾
